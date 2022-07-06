@@ -82,7 +82,7 @@ section {
 
 .flex-container {
     display: flex;
-    background: red;
+
     flex-direction: row;
 
 }
